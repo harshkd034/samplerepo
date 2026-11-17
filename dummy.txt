@@ -1,1 +1,8 @@
-hi my name is harsh
+hi my name is harsh 
+Yes, but you need to commit first, then push. Pushing alone won’t work, because Git only sends committed changes.
+In VS Code with buttons:
+
+Open Source Control (Ctrl+Shift+G).
+Click + to stage your changes.
+Type a message and click Commit.
+Click Sync Changes or Push.
